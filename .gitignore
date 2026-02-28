@@ -36,3 +36,20 @@ yarn-error.log*
 # Misc
 .DS_Store
 *.pem
+
+*.log
+.vscode/
+.idea/
+
+# Agent/AI tooling files
+.claude/
+.cursor/
+.cusor/
+.codex/
+.cursorrules
+**/AGENT.md
+**/AGENTS.md
+**/agent.md
+**/agents.md
+**/SKILL.md
+**/skill.md
